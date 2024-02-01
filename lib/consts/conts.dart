@@ -1,0 +1,23 @@
+class AppString {
+  static String appName = 'Book Appointment',
+      login = 'Login',
+      welcome = 'Welcome',
+      signUp = 'Sign Up',
+      alreadyAc = 'Already have an account',
+      dontHaveAc = "Don't have an account",
+      forgotPassword = 'Forgot Password',
+      changePassword = 'Change Password',
+      email = 'Email',
+      bestDoctor = 'Best Doctor \n Appointment App',
+      password = 'Password',
+      confirmPassword = 'Confirm Password',
+      resetPassword = 'Reset Password',
+      enterPassword = 'Please enter your Password',
+      emailPassword = 'Please enter your email',
+      profile = 'Profile',
+      home = 'Home',
+      category = 'Category',
+      logout = 'Logout',
+      userName = 'User name',
+      fullName = 'Full name';
+}
